@@ -1,1 +1,2 @@
-# Just be sure you have ffmpeg installed, for video and audio conversion.
+## Note
+Just be sure you have ffmpeg installed, for video and audio conversion.
