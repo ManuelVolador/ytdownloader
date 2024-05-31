@@ -5,5 +5,6 @@ I know this is shit and I should comment the code, but I'll improve it by the ti
 
 
 ### Yeah
-![image](https://github.com/ManuelVolador/ytdownloader/assets/92763328/9cf1c62c-9357-480d-ab18-7e62ceb83919)
+![image](https://github.com/ManuelVolador/ytdownloader/assets/92763328/4705555c-ea94-4ef3-95f6-fd40948fc429)
+
 
